@@ -1,2 +1,0 @@
-This is my second Git project.
-Learning about Git Commands and Version Control.
